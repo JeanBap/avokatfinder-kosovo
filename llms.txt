@@ -1,0 +1,27 @@
+# kosovo.avokatfinder.com — llms.txt
+# Lawyers and notaries in Kosovo
+
+## Pages
+url: https://kosovo.avokatfinder.com/
+url: https://kosovo.avokatfinder.com/blog/employment-law-guide-expats-kosovo/
+url: https://kosovo.avokatfinder.com/blog/guide-to-lawyers-in-kosovo/
+url: https://kosovo.avokatfinder.com/blog/immigration-law-guide-expats-kosovo/
+url: https://kosovo.avokatfinder.com/blog/real-estate-law-guide-expats-kosovo/
+url: https://kosovo.avokatfinder.com/blog/lawyers-notaries-guide/
+url: https://kosovo.avokatfinder.com/practice-areas/banking-finance/
+url: https://kosovo.avokatfinder.com/practice-areas/corporate-ma/
+url: https://kosovo.avokatfinder.com/practice-areas/criminal-law/
+url: https://kosovo.avokatfinder.com/practice-areas/data-protection/
+url: https://kosovo.avokatfinder.com/practice-areas/dispute-resolution/
+url: https://kosovo.avokatfinder.com/practice-areas/employment/
+url: https://kosovo.avokatfinder.com/practice-areas/family-law/
+url: https://kosovo.avokatfinder.com/practice-areas/golden-visa/
+url: https://kosovo.avokatfinder.com/practice-areas/immigration/
+url: https://kosovo.avokatfinder.com/practice-areas/intellectual-property/
+url: https://kosovo.avokatfinder.com/practice-areas/real-estate/
+url: https://kosovo.avokatfinder.com/practice-areas/tax/
+url: https://kosovo.avokatfinder.com/cities/pristina/
+url: https://kosovo.avokatfinder.com/cities/prizren/
+url: https://kosovo.avokatfinder.com/cities/peja/
+url: https://kosovo.avokatfinder.com/cities/mitrovica/
+url: https://kosovo.avokatfinder.com/cities/gjilan/
