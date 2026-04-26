@@ -1,2 +1,0 @@
-# avokatfinder-kosovo
-AvokatFinder Kosovo
