@@ -37,6 +37,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://kosovo.avokatfinder.com/glossary/certifikata-prone.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://kosovo.avokatfinder.com/glossary/constitutional-law.html</loc>
     <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -49,13 +55,31 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://kosovo.avokatfinder.com/glossary/hipoteke.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://kosovo.avokatfinder.com/glossary/kontrata-e-shitblerjes.html</loc>
     <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://kosovo.avokatfinder.com/glossary/kontrata-qirase.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://kosovo.avokatfinder.com/glossary/land-and-property.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kosovo.avokatfinder.com/glossary/notar-kosovo.html</loc>
     <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
